@@ -1,13 +1,13 @@
 <img
   role='presentation'
-  src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/61f29e0d76aa07d46daa04ecc2ceec9a93408fef/assets/dividers/cyber_top.svg'
+  src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/c8c0877d35f2d3c5058704645432d712ab4d25a1/assets/dividers/cyber_top.svg'
 />
 
 <h1 align='center'>🎯 Mod Lumina Template</h1>
 
 <img
   role='presentation'
-  src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/61f29e0d76aa07d46daa04ecc2ceec9a93408fef/assets/dividers/cyber_bottom.svg'
+  src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/c8c0877d35f2d3c5058704645432d712ab4d25a1/assets/dividers/cyber_bottom.svg'
 />
 
 <br />
@@ -22,7 +22,7 @@
 
 <img
   role='presentation'
-  src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/61f29e0d76aa07d46daa04ecc2ceec9a93408fef/assets/dividers/cyber_badge.svg'
+  src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/c8c0877d35f2d3c5058704645432d712ab4d25a1/assets/dividers/cyber_badge.svg'
 />
 
 <br />
@@ -55,7 +55,7 @@
 
 <img
   role='presentation'
-  src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/61f29e0d76aa07d46daa04ecc2ceec9a93408fef/assets/dividers/cyber_badge.svg'
+  src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/c8c0877d35f2d3c5058704645432d712ab4d25a1/assets/dividers/cyber_badge.svg'
 />
 
 <br />
@@ -70,7 +70,7 @@
 
 <img
   role='presentation'
-  src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/61f29e0d76aa07d46daa04ecc2ceec9a93408fef/assets/dividers/cyber_badge.svg'
+  src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/c8c0877d35f2d3c5058704645432d712ab4d25a1/assets/dividers/cyber_badge.svg'
 />
 
 <br />
