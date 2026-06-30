@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" height="120" fill="none">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 44 1200 60" width="100%" height="60" fill="none">
   <defs>
     <linearGradient id="divider-cyber-b" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#06b6d4"/>
@@ -7,12 +8,9 @@
     </linearGradient>
   </defs>
 
-  <path d="M0 60 H420 L480 100 H720 L780 60 H1200"
-        stroke="#1f2937" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M0 60 H420 L480 100 H720 L780 60 H1200" stroke="#1f2937" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
 
-  <path d="M0 60 H420 L480 100 H720 L780 60 H1200"
-        stroke="url(#divider-cyber-b)" stroke-width="4"
-        stroke-dasharray="180 1600">
+  <path d="M0 60 H420 L480 100 H720 L780 60 H1200" stroke="url(#divider-cyber-b)" stroke-width="4" stroke-dasharray="180 1600">
     <animate attributeName="stroke-dashoffset" values="1780;0" dur="3s" repeatCount="indefinite"/>
   </path>
 
