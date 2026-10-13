@@ -1,3 +1,5 @@
+> Highlights a quote or a reference that provides additional context.
+
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming. Good to know.
 
