@@ -1,10 +1,6 @@
-<div id='toc'>
-  <ul align='center'>
-    <summary>
-      <h1>🎯 Mod Lumina Template</h1>
-    </summary>
-  </ul>
-</div>
+<summary align='center'>
+  <h1>🎯 Mod Lumina Template</h1>
+</summary>
 
 <img
   role='presentation'
@@ -14,13 +10,9 @@
 <br>
 <br>
 
-<div id='toc'>
-  <ul>
-    <summary>
-      <h2>👀 Overview</h2>
-    </summary>
-  </ul>
-</div>
+<summary>
+  <h2>👀 Overview</h2>
+</summary>
 
 <p>
   Lumina Template is a Moodle activity plugin that allows course authors to build visually rich course content using reusable templates. Instead of creating a different activity for every layout, the plugin provides a single activity where the author selects a template and configures only the content required by that template.
@@ -48,13 +40,9 @@ Author adds a Lumina Template activity
   src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/9b17b6fa2fb567f76880adbfff92670166776c99/assets/dividers/cyber_badge.svg'
 />
 
-<div id='toc'>
-  <ul>
-    <summary>
-      <h2>🎬 Demo</h2>
-    </summary>
-  </ul>
-</div>
+<summary>
+  <h2>🎬 Demo</h2>
+</summary>
 
 <p>
   The following comparison illustrates the motivation behind Lumina Template. Before the plugin, course content was typically presented as a simple list of resources. With Lumina Template, the same content can be organized into reusable, visually rich layouts that provide a more engaging learning experience.
@@ -83,13 +71,9 @@ Author adds a Lumina Template activity
   src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/9b17b6fa2fb567f76880adbfff92670166776c99/assets/dividers/cyber_badge.svg'
 />
 
-<div id='toc'>
-  <ul>
-    <summary>
-      <h2>✨ Features</h2>
-    </summary>
-  </ul>
-</div>
+<summary>
+  <h2>✨ Features</h2>
+</summary>
 
 <ul>
   <li>
@@ -122,13 +106,9 @@ Author adds a Lumina Template activity
   src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/9b17b6fa2fb567f76880adbfff92670166776c99/assets/dividers/cyber_badge.svg'
 />
 
-<div id='toc'>
-  <ul>
-    <summary>
-      <h2>💬 FAQ</h2>
-    </summary>
-  </ul>
-</div>
+<summary>
+  <h2>💬 FAQ</h2>
+</summary>
 
 <details>
   <summary><b>What is this plugin?</b></summary>
@@ -199,13 +179,9 @@ Author adds a Lumina Template activity
   src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/9b17b6fa2fb567f76880adbfff92670166776c99/assets/dividers/cyber_badge.svg'
 />
 
-<div id='toc'>
-  <ul>
-    <summary>
-      <h2>📋 Requirements</h2>
-    </summary>
-  </ul>
-</div>
+<summary>
+  <h2>📋 Requirements</h2>
+</summary>
 
 <ul>
   <li>
@@ -235,13 +211,9 @@ Author adds a Lumina Template activity
   src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/9b17b6fa2fb567f76880adbfff92670166776c99/assets/dividers/cyber_badge.svg'
 />
 
-<div id="toc">
-  <ul>
-    <summary>
-      <h2>📚 Documentation Guide</h2>
-    </summary>
-  </ul>
-</div>
+<summary>
+  <h2>📚 Documentation Guide</h2>
+</summary>
 
 <p>
   The documentation is organized by topic. If you're new to the project, start with Getting Started and continue with Architecture before creating or modifying templates.
