@@ -1,16 +1,12 @@
-<div id='toc'>
-  <ul align='center'>
-    <summary>
-      <h1>
-        <img
-          width='30'
-          src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif'
-        > 
-        Hey there! I'm Richard
-      </h1>
-    </summary>
-  </ul>
-</div>
+<summary align='center'>
+  <h1>
+    <img
+      width='30'
+      src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif'
+    > 
+    Hey there! I'm Richard
+  </h1>
+</summary>
 
 <img
   role='presentation'
@@ -57,15 +53,11 @@ Alongside web development, I'm currently deepening my knowledge in **Competitive
   src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/9b17b6fa2fb567f76880adbfff92670166776c99/assets/dividers/cyber_badge.svg'
 />
 
-<div id='toc'>
-  <ul>
-    <summary>
-      <h2>
-        🛠 Skills
-       </h2>
-    </summary>
-  </ul>
-</div>
+<summary>
+  <h2>
+    🛠 Skills
+   </h2>
+</summary>
 
 <img
   src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css,nodejs,php,cpp,c,python,mysql,mongodb,jest,git,github,vscode,yarn"
@@ -76,15 +68,11 @@ Alongside web development, I'm currently deepening my knowledge in **Competitive
   src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/9b17b6fa2fb567f76880adbfff92670166776c99/assets/dividers/cyber_badge.svg'
 />
 
-<div id='toc'>
-  <ul>
-    <summary>
-      <h2>
-        📫 Get in Touch
-       </h2>
-    </summary>
-  </ul>
-</div>
+<summary>
+  <h2>
+    📫 Get in Touch
+   </h2>
+</summary>
 
 Whether you have an opportunity, an interesting project, or simply want to talk about technology, I'd love to hear from you. Let's build something great together.
 
@@ -100,14 +88,10 @@ Whether you have an opportunity, an interesting project, or simply want to talk 
   src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/9b17b6fa2fb567f76880adbfff92670166776c99/assets/dividers/cyber_badge.svg'
 />
 
-<div id='toc'>
-  <ul align='center'>
-    <summary>
-      <h6>
-        Thanks for stopping by!
-        <br>
-        If you enjoyed one of my projects, consider leaving a ⭐ or connecting with me.
-       </h6>
-    </summary>
-  </ul>
-</div>
+<summary>
+  <h6>
+    Thanks for stopping by!
+    <br>
+    If you enjoyed one of my projects, consider leaving a ⭐ or connecting with me.
+   </h6>
+</summary>
