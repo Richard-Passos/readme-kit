@@ -1,10 +1,6 @@
-<div id='toc'>
-  <ul align='center'>
-    <summary>
-      <h1>📖 README Kit</h1>
-    </summary>
-  </ul>
-</div>
+<summary align='center'>
+  <h1>📖 README Kit</h1>
+</summary>
 
 <img
   role='presentation'
@@ -14,13 +10,9 @@
 <br>
 <br>
 
-<div id='toc'>
-  <ul>
-    <summary>
-      <h2>👀 Overview</h2>
-    </summary>
-  </ul>
-</div>
+<summary>
+  <h2>👀 Overview</h2>
+</summary>
 
 <p>
   README Kit is a personal collection of reusable documentation assets and templates that I frequently use when writing GitHub READMEs.
@@ -35,13 +27,9 @@
   src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/9b17b6fa2fb567f76880adbfff92670166776c99/assets/dividers/cyber_badge.svg'
 />
 
-<div id='toc'>
-  <ul>
-    <summary>
-      <h2>📂 Repository Structure</h2>
-    </summary>
-  </ul>
-</div>
+<summary>
+  <h2>📂 Repository Structure</h2>
+</summary>
 
 ```text
 readme-kit/
@@ -80,13 +68,9 @@ readme-kit/
   src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/9b17b6fa2fb567f76880adbfff92670166776c99/assets/dividers/cyber_badge.svg'
 />
 
-<div id='toc'>
-  <ul>
-    <summary>
-      <h2>✨ Features</h2>
-    </summary>
-  </ul>
-</div>
+<summary>
+  <h2>✨ Features</h2>
+</summary>
 
 <ul>
   <li>
@@ -115,13 +99,9 @@ readme-kit/
   src='https://raw.githubusercontent.com/Richard-Passos/readme-kit/9b17b6fa2fb567f76880adbfff92670166776c99/assets/dividers/cyber_badge.svg'
 />
 
-<div id='toc'>
-  <ul>
-    <summary>
-      <h2>📋 Notes</h2>
-    </summary>
-  </ul>
-</div>
+<summary>
+  <h2>📋 Notes</h2>
+</summary>
 
 > [!NOTE]
 > This repository is not a library or framework. It simply serves as a centralized workspace for documentation resources that can be reused across personal projects.
